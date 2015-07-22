@@ -1,1 +1,1 @@
-alert('explore the GIT');
+alert('explore the GIT update');
