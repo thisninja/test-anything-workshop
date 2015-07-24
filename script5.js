@@ -1,1 +1,1 @@
-alert('explore the GIT update');
+console.info('emergency fix');
